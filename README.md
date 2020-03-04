@@ -6,4 +6,4 @@
 #####
 #2. Also, smaller size to medium size schools are better than larger schools. Students in smaller schools have better math, reading and overall score. 
 #####
-#3. Higher spending per student can effect student passing score in math and reading positively. 
+#3. Surprisingly, lower spending per student can effect student passing score in math and reading positively overall. 
